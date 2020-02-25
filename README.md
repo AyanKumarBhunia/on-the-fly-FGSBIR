@@ -14,6 +14,8 @@ Fine-grained sketch-based image retrieval (FG-SBIR) addresses the problem of ret
 ![Example](example.jpg)
 Illustration of proposed on-the-fly framework's efficacy over a baseline FG-SBIR method trained with completed sketches only.  For this particular example, our method needs only 30% of the complete sketch to include the true match in the top-10 rank list, compared to 80% for the baseline. Top-5 photo images retrieved by either framework are shown here, in progressive sketch-rendering steps of 10%. The number at the bottom denotes the paired (true match) photo's rank at every stage.
 
+### A basic Policy-Gradient(not PPO which is our final version) based RL sketch branch finetuning code is uploaded at this time to help any reader understand how our framework works. 
+
 ## Citation
 
 If you find this article useful in your research, please consider citing:

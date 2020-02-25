@@ -16,6 +16,8 @@ Figure: Illustration of proposed on-the-fly framework's efficacy over a baseline
 
 ~A basic Policy-Gradient (not PPO which is our final version) based sketch branch finetuning (via Reinforcement Learning) code is uploaded at this time to help any reader understand how our framework works. 
 
+Feature extracted from baseline triplet loss based network: [Download](https://drive.google.com/drive/folders/1itpSb_RBVcLD1JLR3QVk5OG0FY9tFjBS?usp=sharing)
+
 ## Citation
 
 If you find this article useful in your research, please consider citing:

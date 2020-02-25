@@ -7,12 +7,12 @@ Fine-grained sketch-based image retrieval (FG-SBIR) addresses the problem of ret
 ## Framework
 
 ![Framework](Framework.jpg)
-(a) A conventional FG-SBIR framework trained using triplet loss. (b) Our proposed reinforcement learning based framework that takes into account a complete sketch rendering episode. Key locks signifies particular weights are fixed during RL training.
+Figure: (a) A conventional FG-SBIR framework trained using triplet loss. (b) Our proposed reinforcement learning based framework that takes into account a complete sketch rendering episode. Key locks signifies particular weights are fixed during RL training.
 
 ## Illustrative Example
 
 ![Example](example.jpg)
-Illustration of proposed on-the-fly framework's efficacy over a baseline FG-SBIR method trained with completed sketches only.  For this particular example, our method needs only 30% of the complete sketch to include the true match in the top-10 rank list, compared to 80% for the baseline. Top-5 photo images retrieved by either framework are shown here, in progressive sketch-rendering steps of 10%. The number at the bottom denotes the paired (true match) photo's rank at every stage.
+Figure: Illustration of proposed on-the-fly framework's efficacy over a baseline FG-SBIR method trained with completed sketches only.  For this particular example, our method needs only 30% of the complete sketch to include the true match in the top-10 rank list, compared to 80% for the baseline. Top-5 photo images retrieved by either framework are shown here, in progressive sketch-rendering steps of 10%. The number at the bottom denotes the paired (true match) photo's rank at every stage.
 
 ~A basic Policy-Gradient (not PPO which is our final version) based sketch branch finetuning (via Reinforcement Learning) code is uploaded at this time to help any reader understand how our framework works. 
 

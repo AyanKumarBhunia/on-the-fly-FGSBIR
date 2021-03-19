@@ -1,5 +1,5 @@
 # Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval, CVPR 2020 (Oral) 
-**Ayan Kumar Bhunia**, Yongxin Yang, Timothy M. Hospedales, Tao Xiang, Yi-Zhe Song, “Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval”, IEEE Conf. on Computer Vision and Pattern Recognition (CVPR), 2020. 
+**Ayan Kumar Bhunia**, Yongxin Yang, Timothy M. Hospedales, Tao Xiang, Yi-Zhe Song, “Sketch Less for More: On-the-Fly Fine-Grained Sketch Based Image Retrieval”, IEEE Conf. on Computer Vision and Pattern Recognition (**CVPR**), 2020. 
 
 https://arxiv.org/abs/2002.10310
 
